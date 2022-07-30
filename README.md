@@ -7,7 +7,9 @@ Full-Stack Java & Android Developer
 I have acquired many skills and experiences such as critical thinking, and self-learning, and implemented those in projects and code challenges. I am in love with coding and I would like to encourage others who have an interest in software development
 
 *   🌍  I'm based in Seattle,Washington
-*   ✉️  You can contact me at [Abdulahimohamud22@gmail.com](mailto:Abdulahimohamud22@gmail.com)### Skills<p align="left">
+*   ✉️  You can contact me at [Abdulahimohamud22@gmail.com](mailto:Abdulahimohamud22@gmail.com)
+
+### Skills<p align="left">
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
